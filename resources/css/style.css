@@ -13,9 +13,24 @@ h1 {
 	font-weight: bold;
 }
 
+footer {
+	background-color: dimgray;
+	text-align: left;
+}
+
+.copyright {
+	font-size: 11px;
+	color: white;
+}
+
 .header {
 	background-image: url(file:///C:/cygwin64/home/Jessies/coding/command_line/git/pages/broadway/resources/images/building.png);
 	color: white;
+}
+
+.location {
+	font-size: 23px;
+	font-weight: bold;
 }
 
 .nav {
