@@ -1,0 +1,23 @@
+* {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+a {
+	color: white;
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.header {
+	background-image: url(file:///C:/cygwin64/home/Jessies/coding/command_line/git/pages/broadway/resources/images/building.png);
+	color: white;
+}
+
+.nav {
+
+}
